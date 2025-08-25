@@ -22,19 +22,19 @@
     "url": "https://zh-hans.hugomods.com/",
     "icon": "https://icons.duckduckgo.com/ip3/zh-hans.hugomods.com.ico",
     "slug": "hugo-mods-simplified-chinese",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 200,
-    "timeDay": 9824,
-    "timeWeek": 1742,
-    "timeMonth": 547,
+    "time": 201,
+    "timeDay": 5123,
+    "timeWeek": 1577,
+    "timeMonth": 543,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2025-08-25": 0
+      "2025-08-25": 12
     }
   }
 ]
