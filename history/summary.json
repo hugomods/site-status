@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 195,
-    "timeDay": 610,
-    "timeWeek": 360,
-    "timeMonth": 245,
-    "timeYear": 198,
+    "time": 206,
+    "timeDay": 5531,
+    "timeWeek": 1119,
+    "timeMonth": 418,
+    "timeYear": 213,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "hugo-mods-simplified-chinese",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.18%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.88%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 201,
-    "timeDay": 5123,
-    "timeWeek": 1577,
-    "timeMonth": 543,
-    "timeYear": 211,
+    "timeDay": 428,
+    "timeWeek": 1613,
+    "timeMonth": 552,
+    "timeYear": 212,
     "dailyMinutesDown": {
       "2025-08-25": 12
     }
